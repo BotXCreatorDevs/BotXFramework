@@ -23,6 +23,6 @@ Read the [docs](https://neleb54gold.github.io/NeleBotX/).
 
 ## About Bot X Creator
 
-[📢 Telegram Channel](hhttps://t.me/BotXCreator)
+[📢 Telegram Channel](https://t.me/BotXCreator)
 
 [👥 Telegram Group](https://t.me/BotXCreatorChat)
