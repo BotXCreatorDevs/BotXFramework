@@ -5,9 +5,6 @@
 # Bot X Framework
 This framework is a version of NeleBot X adapted to the base of Bot X Creator to allow you to develop new plugins!
 
-### Installation
-In development...
-
 ### Requirements
 
 - A Linux machine (or Linux VM) with [nginx](https://www.nginx.com/) *[Required to get updates from the Webhook]*
@@ -17,12 +14,17 @@ In development...
 - PHP Extension: [PDO](https://www.php.net/manual/en/book.pdo.php) *[Required to use PostgreSQL database]*
 - PHP Extension: [Redis](https://github.com/phpredis/phpredis) *[Required to use Redis database]*
 
-### How to setup and use
+### Installation
+In order to use this framework you need to set all configurations in configs.php, it's all documented for each line, setup the webhook and you're good to go!
 
-Read the [docs](https://neleb54gold.github.io/NeleBotX/).
+For other needs read the [NeleBot X docs](https://neleb54gold.github.io/NeleBotX/).
 
 ## About Bot X Creator
+
+[👨🏻‍💻 Developers Channel](https://t.me/BotXCreatorDevelopers)
 
 [📢 Telegram Channel](https://t.me/BotXCreator)
 
 [👥 Telegram Group](https://t.me/BotXCreatorChat)
+
+[©️ Original Framework](https://github.com/NeleB54Gold/NeleBotX)
